@@ -1,6 +1,6 @@
 """
 CSCI-UA.0002 Spring 2024
-Assignment #2, Program 1
+Assignment #1, Program 1
 Your name here
 """
 # This program converts some currency entered by the user in dollars
